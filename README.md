@@ -1,6 +1,5 @@
 # Practical 6A: Git-based Deployment Workflow with GitHub and LocalStack
 
-**Student:** Kelden P Dorji  
 **Repository:** [practical6-nextjs-app](https://github.com/KeldenPDorji/practical6-nextjs-app)  
 **Live Website:** http://practical6-deployment-dev.s3-website.localhost.localstack.cloud:4566
 
