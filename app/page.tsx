@@ -3,7 +3,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gradient-to-br from-blue-500 to-purple-600">
       <div className="text-center space-y-6">
         <h1 className="text-6xl font-bold text-white drop-shadow-lg">
-          Practical 6
+          Practical 6A - Git-based Deployment
         </h1>
         <h2 className="text-3xl font-semibold text-white/90">
           Infrastructure as Code with Terraform
